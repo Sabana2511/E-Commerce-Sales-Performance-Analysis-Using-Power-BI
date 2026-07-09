@@ -227,25 +227,17 @@ Displays important business metrics such as:
 
 Compares Sales Targets across different product categories to understand business expectations.
 
-<img width="857" height="575" alt="image" src="https://github.com/user-attachments/assets/d519b4c8-ee3c-4283-b1c7-fad4433f2f8b" />
-
 ---
 
 ## Donut Chart
 
 Displays maximum profit earned by each product sub-category and identifies the most profitable products.
 
-
-<img width="772" height="583" alt="image" src="https://github.com/user-attachments/assets/6426113a-a15f-40b3-a934-61b4f926b38e" />
-
-
 ---
 
 ## Line Chart
 
 Shows monthly sales target trends throughout the year and highlights seasonal business patterns.
-
-<img width="1260" height="437" alt="image" src="https://github.com/user-attachments/assets/83614cf6-24ba-4174-8517-cc60d0bade91" />
 
 ---
 
@@ -256,14 +248,6 @@ Compares Quantity Sold against Total Profit to identify:
 * High-profit products
 * High-volume products
 * Loss-making products
-
-<img width="1202" height="588" alt="image" src="https://github.com/user-attachments/assets/78595ead-ffce-4f48-b2f9-47b2e6ac3086" />
-
----
-
-## Multi-row Card
-
-<img width="345" height="137" alt="image" src="https://github.com/user-attachments/assets/4c84fb91-f27e-4eb8-bf93-c37e532df2c2" />
 
 ---
 
@@ -283,23 +267,17 @@ Provides detailed comparisons of:
 
 Displays geographical sales distribution across different cities, helping identify high-performing and low-performing regions.
 
-<img width="1171" height="650" alt="image" src="https://github.com/user-attachments/assets/67d394f8-4896-4e56-8737-cc0803520713" />
-
 ---
 
 ## Treemap
 
 Represents sales contribution by each product sub-category using proportional rectangles for easy comparison.
 
-<img width="957" height="543" alt="image" src="https://github.com/user-attachments/assets/2f42bc9d-77a3-4541-a241-d0da66b2c95c" />
-
 ---
 
 ## Funnel Chart
 
 Ranks states according to total order count, highlighting regions with the highest customer activity.
-
-<img width="712" height="588" alt="image" src="https://github.com/user-attachments/assets/6da59863-b3ba-4843-8cf8-e4fae6d74d7e" />
 
 ---
 
